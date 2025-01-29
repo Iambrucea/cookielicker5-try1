@@ -1,7 +1,7 @@
 const { createProxyMiddleware } = require("http-proxy-middleware");
 
 module.exports = (req, res) => {
-  let target = "https://cookie-clicker.io/cookie-clicker-4";//your website url
+  let target = "https://slope-game.github.io/agent-walker-vs-skibidi-toilets/";//your website url
   //   if (
   //     req.url.startsWith("/api") ||
   //     req.url.startsWith("/auth") ||
